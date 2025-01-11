@@ -24,7 +24,7 @@ public class buttonColor : MonoBehaviour
         }
     }
 
-
+    // verifica o click
 
 
 
